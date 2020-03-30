@@ -894,3 +894,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.30-20.27.26:337][236]LogEditorServer: Exec Particle!
 [2020.03.30-20.27.26:437][242]Cmd: PARTICLE RESET SELECTED
 [2020.03.30-20.27.26:437][242]LogEditorServer: Exec Particle!
+[2020.03.30-20.29.37:940][757]LogSlate: Window 'New Level' being destroyed
+[2020.03.30-20.29.37:982][757]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.30-20.29.38:543][757]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.30-20.29.38:574][757]LightingResults: New page: Lighting Build
+[2020.03.30-20.29.38:575][757]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.03.30-20.29.38:614][757]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-20.29.38:628][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-20.29.38:634][757]MapCheck: New page: Map Check
+[2020.03.30-20.29.38:634][757]LightingResults: New page: Lighting Build
+[2020.03.30-20.29.38:676][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.30-20.29.38:691][757]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.30-20.29.38:803][757]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.30-20.29.38:840][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.03.30-20.29.38:851][757]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.30-20.29.38:851][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2020.03.30-20.29.38:851][757]LogFileHelpers: Loading map 'Template_Default' took 0.871
+[2020.03.30-20.30.07:074][196]LogSlate: Window 'Save Level As' being destroyed
+[2020.03.30-20.30.07:160][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.30-20.30.07:194][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.03.30-20.30.07:253][196]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Saved/Level1C57186E2463217F888DB77A4B3A71991.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1.umap'
+[2020.03.30-20.30.07:286][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.03.30-20.30.07:313][196]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Saved/Level1_BuiltDataFE566E1542878B8D4FDF14AABCFDD1BD.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1_BuiltData.uasset'
+[2020.03.30-20.30.07:326][196]LogFileHelpers: Saving map 'Level1' took 0.217
+[2020.03.30-20.30.07:349][196]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-20.30.07:350][196]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.03.30-20.30.07:350][196]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
+[2020.03.30-20.30.10:547][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.30-20.30.10:585][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.03.30-20.30.10:608][380]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Saved/Level1B5A3769A451F88E4FF9333958EFA8B1F.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1.umap'
+[2020.03.30-20.30.10:618][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_BuiltData" FILE="../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.03.30-20.30.10:638][380]LogSavePackage: Moving '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Saved/Level1_BuiltData6BA7E4954B9A4624E7ECD5A43019761D.tmp' to '../../../../../Unreal Projects/OnlineJam_Reconstruct/OnlineJam/Content/Levels/Level1_BuiltData.uasset'
+[2020.03.30-20.30.10:653][380]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-20.30.10:653][380]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2020.03.30-20.30.10:653][380]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_BuiltData.Level1_BuiltData
